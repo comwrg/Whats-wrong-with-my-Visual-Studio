@@ -1,2 +1,5 @@
 # Whats-wrong-with-my-Visual-Studio
-What's wrong with my Visual Studio
+
+## vim extension
+之前用`VsVim`这个插件, 装了半天加各种设置 最后还是有些键位用不了, 而且是很关键的键位, 都要被弄崩溃了 QAQ <br />
+今天无意中看见了`ViEmu`, 下载试用了一下, 我的妈呀, 简直就是我的救世主
